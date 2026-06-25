@@ -1,10 +1,10 @@
-# Library Management System
+## Library Management System
 
 A relational database project designed to manage library operations efficiently using SQL. The system supports book management, member registration, loan processing, employee management, and fine tracking while ensuring data integrity through database normalization.
 
 ---
 
-# Project Overview
+## Project Overview
 
 The Library Management System is designed to simplify and organize library operations. It manages books, members, employees, loans, and fines using a normalized relational database.
 
@@ -12,7 +12,7 @@ The project demonstrates the complete database design process, from requirement 
 
 ---
 
-# Features
+## Features
 
 - Book management
 - Member registration
@@ -25,7 +25,7 @@ The project demonstrates the complete database design process, from requirement 
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 - MySQL
 - SQL
@@ -35,7 +35,7 @@ The project demonstrates the complete database design process, from requirement 
 
 ---
 
-# Database Entities
+## Database Entities
 
 The database consists of the following main tables:
 
@@ -49,7 +49,7 @@ The database consists of the following main tables:
 
 ---
 
-# Database Design
+## Database Design
 
 The project includes:
 
@@ -61,7 +61,7 @@ The project includes:
 
 ---
 
-# SQL Operations
+## SQL Operations
 
 The project demonstrates the following SQL operations:
 
@@ -88,7 +88,7 @@ The project demonstrates the following SQL operations:
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```
 ├── README.md
@@ -98,7 +98,7 @@ The project demonstrates the following SQL operations:
 
 ---
 
-# Learning Outcomes
+## Learning Outcomes
 
 - Database Design
 - Entity Relationship Modeling
@@ -111,7 +111,7 @@ The project demonstrates the following SQL operations:
 
 ---
 
-# Team
+## Team
 
 - Noran Aljodi
 - Reema Alharbi
